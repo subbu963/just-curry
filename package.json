@@ -1,6 +1,6 @@
 {
   "name": "just-curry",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Its just curry",
   "main": "index.js",
   "scripts": {
