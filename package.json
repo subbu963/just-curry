@@ -1,0 +1,11 @@
+{
+  "name": "just-curry",
+  "version": "0.1.0",
+  "description": "Its just curry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aditya Subramanyam <subramanyam963@gmail.com>",
+  "license": "ISC"
+}
