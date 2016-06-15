@@ -12,7 +12,7 @@ $ npm install just-curry
 var justCurry = require('just-curry');
 //amd
 define(['just-curry'], function(justCurry){
-  ...//some code
+  ...
 });
 //global
 var justCurry = window.justCurry;
